@@ -1,4 +1,4 @@
-# Spotify-Recommendation-Engine
+# MelodyMuse: Azure-Driven Beat Recommender
 End to End Azure Technology Spotify Recommendation Engine  
 
 **Abstract:**
